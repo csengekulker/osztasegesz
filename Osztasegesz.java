@@ -8,6 +8,8 @@
 * Licenc: GNU GPL
 */
 
+// test
+
 import java.util.Scanner;
 
 class Osztasegesz {
