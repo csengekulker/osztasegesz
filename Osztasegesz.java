@@ -24,5 +24,13 @@ class Osztasegesz {
 
         sc.close();
 
+        int remainder = numer % denom;
+
+        if (remainder != 0) {
+            System.out.println("Az osztas maradeka " + remainder);
+        } 
+
+        System.out.println("Az osztas eredmenye " + numer / denom);
+
     }
 }
